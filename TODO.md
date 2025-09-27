@@ -1,0 +1,8 @@
+- [x] Add monthlyBudget to state in script.js
+- [x] Update loadData and saveData for monthlyBudget
+- [x] Add monthly budget setting UI in budgets section
+- [x] Add event listener for monthly budget input
+- [x] Add prediction card to dashboard
+- [x] Create calculateBudgetPrediction function
+- [x] Update updateSummaryCards to render prediction
+- [x] Test the functionality
